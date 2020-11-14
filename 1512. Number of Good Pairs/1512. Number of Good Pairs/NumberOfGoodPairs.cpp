@@ -1,17 +1,27 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+#include <unordered_map>
 using namespace std;
 
 class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {
         int result = 0;
+        /* 规过1
         for (int i = 0; i < nums.size(); i++) {
             for (int y = i+1; y < nums.size(); y++) {
                 if (nums[i] == nums[y]) result++;
             }
+        }*/
+        
+        // 规过2
+        unordered_map<int, int> record;
+        for (const auto& num : nums) {
+            record[num]++;
+        }
+        for (const auto& item : record) {   
+            result += (item.second) * (item.second - 1) / 2;
         }
         return result;
     }
