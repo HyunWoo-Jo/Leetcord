@@ -1,0 +1,4 @@
+﻿  NumberOfGoodPairs.cpp
+D:\Project\Leetcord\1512. Number of Good Pairs\1512. Number of Good Pairs\NumberOfGoodPairs.cpp(11,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Project\Leetcord\1512. Number of Good Pairs\1512. Number of Good Pairs\NumberOfGoodPairs.cpp(12,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1512. Number of Good Pairs.vcxproj -> D:\Project\Leetcord\1512. Number of Good Pairs\Debug\1512. Number of Good Pairs.exe
