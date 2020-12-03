@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1252. Cells with Odd Values
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1572. Matrix Diagonal Sum", "1572. Matrix Diagonal Sum\1572. Matrix Diagonal Sum.vcxproj", "{26F5B0AB-86A3-43AC-8D59-25280B95A0D0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.vcxproj", "{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{26F5B0AB-86A3-43AC-8D59-25280B95A0D0}.Release|x64.Build.0 = Release|x64
 		{26F5B0AB-86A3-43AC-8D59-25280B95A0D0}.Release|x86.ActiveCfg = Release|Win32
 		{26F5B0AB-86A3-43AC-8D59-25280B95A0D0}.Release|x86.Build.0 = Release|Win32
+		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Debug|x64.ActiveCfg = Debug|x64
+		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Debug|x64.Build.0 = Debug|x64
+		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Debug|x86.Build.0 = Debug|Win32
+		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Release|x64.ActiveCfg = Release|x64
+		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Release|x64.Build.0 = Release|x64
+		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Release|x86.ActiveCfg = Release|Win32
+		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
