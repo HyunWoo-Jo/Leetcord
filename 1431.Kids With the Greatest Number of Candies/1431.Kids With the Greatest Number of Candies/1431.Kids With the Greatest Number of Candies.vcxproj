@@ -24,6 +24,7 @@
     <ProjectGuid>{72d81296-4313-49c3-a483-f3d08cae8760}</ProjectGuid>
     <RootNamespace>My1431KidsWiththeGreatestNumberofCandies</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>1431. Kids With the Greatest Number of Candies</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

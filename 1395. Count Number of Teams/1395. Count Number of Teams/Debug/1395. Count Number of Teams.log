@@ -1,7 +1,6 @@
 ﻿  CountNumberOfTeams.cpp
 D:\Project\Leetcord\1395. Count Number of Teams\1395. Count Number of Teams\CountNumberOfTeams.cpp(11,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 D:\Project\Leetcord\1395. Count Number of Teams\1395. Count Number of Teams\CountNumberOfTeams.cpp(13,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\Project\Leetcord\1395. Count Number of Teams\1395. Count Number of Teams\CountNumberOfTeams.cpp(9,19): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
 D:\Project\Leetcord\1395. Count Number of Teams\1395. Count Number of Teams\CountNumberOfTeams.cpp(35,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 D:\Project\Leetcord\1395. Count Number of Teams\1395. Count Number of Teams\CountNumberOfTeams.cpp(36,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  1395. Count Number of Teams.vcxproj -> D:\Project\Leetcord\1395. Count Number of Teams\Debug\1395. Count Number of Teams.exe
+  1395. Count Number of Teams.vcxproj -> D:\Project\Leetcord\Debug\1395. Count Number of Teams.exe

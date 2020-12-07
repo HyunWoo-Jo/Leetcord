@@ -9,7 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1342. Number of Steps to Re
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1395. Count Number of Teams", "1395. Count Number of Teams\1395. Count Number of Teams\1395. Count Number of Teams.vcxproj", "{0F45BBEA-3F0B-4CAC-986E-528100FF919A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1431.Kids With the Greatest Number of Candies", "1431.Kids With the Greatest Number of Candies\1431.Kids With the Greatest Number of Candies\1431.Kids With the Greatest Number of Candies.vcxproj", "{72D81296-4313-49C3-A483-F3D08CAE8760}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1431. Kids With the Greatest Number of Candies", "1431.Kids With the Greatest Number of Candies\1431.Kids With the Greatest Number of Candies\1431.Kids With the Greatest Number of Candies.vcxproj", "{72D81296-4313-49C3-A483-F3D08CAE8760}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1470. Shuffle the Array", "1470. Shuffle the Array\1470. Shuffle the Array\1470. Shuffle the Array.vcxproj", "{D3F5FC50-AC06-4D9F-ABD1-5F1BE17AC53B}"
 EndProject
@@ -22,6 +22,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1572. Matrix Diagonal Sum", "1572. Matrix Diagonal Sum\1572. Matrix Diagonal Sum.vcxproj", "{26F5B0AB-86A3-43AC-8D59-25280B95A0D0}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.vcxproj", "{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "763. Partition Labels", "763. Partition Labels\763. Partition Labels.vcxproj", "{66B03C0E-608B-4200-B484-8B8B3247BDBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,14 @@ Global
 		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Release|x64.Build.0 = Release|x64
 		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Release|x86.ActiveCfg = Release|Win32
 		{D84B76D1-AA40-4A22-9DC4-A2164AC3155B}.Release|x86.Build.0 = Release|Win32
+		{66B03C0E-608B-4200-B484-8B8B3247BDBC}.Debug|x64.ActiveCfg = Debug|x64
+		{66B03C0E-608B-4200-B484-8B8B3247BDBC}.Debug|x64.Build.0 = Debug|x64
+		{66B03C0E-608B-4200-B484-8B8B3247BDBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{66B03C0E-608B-4200-B484-8B8B3247BDBC}.Debug|x86.Build.0 = Debug|Win32
+		{66B03C0E-608B-4200-B484-8B8B3247BDBC}.Release|x64.ActiveCfg = Release|x64
+		{66B03C0E-608B-4200-B484-8B8B3247BDBC}.Release|x64.Build.0 = Release|x64
+		{66B03C0E-608B-4200-B484-8B8B3247BDBC}.Release|x86.ActiveCfg = Release|Win32
+		{66B03C0E-608B-4200-B484-8B8B3247BDBC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

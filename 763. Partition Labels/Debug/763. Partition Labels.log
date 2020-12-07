@@ -1,0 +1,4 @@
+﻿  Partition Labels.cpp
+D:\Project\Leetcord\763. Partition Labels\Partition Labels.cpp(16,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Project\Leetcord\763. Partition Labels\Partition Labels.cpp(19,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  763. Partition Labels.vcxproj -> D:\Project\Leetcord\Debug\763. Partition Labels.exe

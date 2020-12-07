@@ -1,3 +1,2 @@
 ﻿  MatrixDiagonalSum.cpp
-D:\Project\Leetcord\1572. Matrix Diagonal Sum\MatrixDiagonalSum.cpp(10,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  1572. Matrix Diagonal Sum.vcxproj -> D:\Project\Leetcord\Debug\1572. Matrix Diagonal Sum.exe
+D:\Project\Leetcord\1572. Matrix Diagonal Sum\MatrixDiagonalSum.cpp : fatal error C1041: 프로그램 데이터베이스 'D:\Project\Leetcord\1572. Matrix Diagonal Sum\Debug\vc142.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
