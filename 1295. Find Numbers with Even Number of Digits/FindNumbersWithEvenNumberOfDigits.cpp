@@ -8,11 +8,9 @@ public:
     int findNumbers(vector<int>& nums) {
         int result = 0;
         for (const auto& num : nums) {
-            int i = 1, count = 0;
-            for (; i <= num; i = i * 10) {
-                count++;
-            }
-            if ((count&1) == 0) result++;
+            int count = 0;
+            for (int i = 1; i <= num; i = i * 10) count++;
+            if ((count & 1) == 0) result++;
         }
         return result;
     }
